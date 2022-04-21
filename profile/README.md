@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 
 
@@ -9,4 +8,4 @@
 👩‍💻 Useful resources - Our docs of HeliumWeb & Helium are [here](https://vitraclient.ml/docs)
 🍿 Fun facts - Helium's first version was created on February 24, 2021
 
--->
+
